@@ -1,0 +1,21 @@
+{
+    "name": "Unity.Hypercasual.Tutorials.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:dca86c3434c38674a865b8fad7a81c91",
+        "GUID:db453512eab3a4740bed882a1de220c7",
+        "GUID:3d72f113c67d9c5458d6853848c3189e",
+        "GUID:595a7e9ef459646f7bff5a3f15d573bf"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

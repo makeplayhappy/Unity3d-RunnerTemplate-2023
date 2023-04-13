@@ -1,0 +1,18 @@
+{
+    "name": "Unity.Hypercasual.CustomEditors",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3d72f113c67d9c5458d6853848c3189e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

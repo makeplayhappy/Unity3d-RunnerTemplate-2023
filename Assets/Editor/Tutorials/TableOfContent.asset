@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89305aa391d1c5141bbe1628d930a2c5, type: 3}
+  m_Name: TableOfContent
+  m_EditorClassIdentifier: 
+  Modified:
+    m_PersistentCalls:
+      m_Calls: []
+  ParentContainer: {fileID: 0}
+  OrderInView: 0
+  BackgroundImage: {fileID: 2800000, guid: 3805e4f09f9248944b79159591c1b47b, type: 3}
+  Title:
+    m_Untranslated: Tutorials
+  Subtitle:
+    m_Untranslated: A list of resources to make you successful
+  Description:
+    m_Untranslated: 
+  ProjectLayout: {fileID: 0}
+  Sections:
+  - OrderInView: 0
+    Heading:
+      m_Untranslated: Get Started
+    Text:
+      m_Untranslated: Familiarize yourself with this template by exploring a sample
+        runner game.
+    Metadata: 
+    Url: 
+    Image: {fileID: 2800000, guid: 695e8b61734144844adc82cc7693cc4b, type: 3}
+    Tutorial: {fileID: 11400000, guid: 039f78fff7a3edb4096734c7d6219545, type: 2}
+  - OrderInView: 1
+    Heading:
+      m_Untranslated: Level Editor
+    Text:
+      m_Untranslated: Learn how to make your game unique using the Level Editor.
+    Metadata: 
+    Url: 
+    Image: {fileID: 2800000, guid: e6c310457be13c94b9f1cd204566b485, type: 3}
+    Tutorial: {fileID: 11400000, guid: 0d04883b14b9df64b9dfe4469551d3c4, type: 2}
+  - OrderInView: 2
+    Heading:
+      m_Untranslated: Create Your Own Level
+    Text:
+      m_Untranslated: Expand your game by adding new levels
+    Metadata: 
+    Url: 
+    Image: {fileID: 2800000, guid: df14637bd7bfca64baec20346627af57, type: 3}
+    Tutorial: {fileID: 11400000, guid: 8208e639ee70d974d8eedb36d0b0a81c, type: 2}
+  - OrderInView: 4
+    Heading:
+      m_Untranslated: Best Practices and Tips from Supersonic
+    Text:
+      m_Untranslated: Discover best practices and tips for building and delivering
+        a hit runner game that will stand out on app stores from the top hypercasual
+        publisher, Supersonic.
+    Metadata: 
+    Url: https://supersonic.com/unity-runners?utm_source=unity&utm_medium=runner-template
+    Image: {fileID: 2800000, guid: 79db104986097c54da0cf7646d74df17, type: 3}
+    Tutorial: {fileID: 0}
+  - OrderInView: 5
+    Heading:
+      m_Untranslated: Publish Your Game with Supersonic
+    Text:
+      m_Untranslated: "You\u2019ve created the next hit runner game. Follow the 1
+        minute video to publish your game with Supersonic. "
+    Metadata: 
+    Url: https://supersonic.com/learn/videos/?utm_source=unity&utm_medium=runner-template
+    Image: {fileID: 2800000, guid: ef5a5ba5e25840a45bac4c0edbeeff5a, type: 3}
+    Tutorial: {fileID: 0}
